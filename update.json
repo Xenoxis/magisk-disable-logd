@@ -1,0 +1,6 @@
+{
+    "version": v1.0.1,
+    "versionCode": 101,
+    "zipUrl": https://github.com/Xenoxis/magisk-disable-logd/archive/refs/heads/main.zip,
+    "changelog": https://raw.githubusercontent.com/Xenoxis/magisk-disable-logd/main/README.md
+}
