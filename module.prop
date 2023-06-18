@@ -1,0 +1,7 @@
+id=disable-logd
+name=Disable Logd
+version=v1.0
+versionCode=100
+author=Xenoxis
+description=Disable logd service, this can help reducing battery and cpu consuption
+updateJson=<url> (optional)
